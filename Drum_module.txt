@@ -1,0 +1,26 @@
+Drum module
+===========
+
+Piezo inputs and conditioning
+=========================
+*) I seem to have a range of 0-40Vp-p on my piezo, apparently some can go as high as 50V.
+
+*) To get 30Vp-p you have to hit the drum pad with quite an amount of force, 
+    looking at some stats of Vmax from playing the drum pad, reasonably loudly i see Vmax of 20V
+
+    Design decisions:
+    *) Since really this PS3 guitar hero drum thing is just a toy (for me and my son) and to reduce my ( expensive ) development time since i won't be using it much anyway (lol). I could just easily clamp the voltage at 5 volts and leave t like that. This is probably fine for a prototype anyways.
+    
+    *)
+
+
+
+
+
+
+
+
+
+
+
+
