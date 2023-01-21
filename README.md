@@ -6,6 +6,7 @@ This was made because my guitar hero drum kit does not forward midi off messages
 
 # Hardware
 Arduino Leonardo ( the board just has to be able to use the **MIDIUSB** library though)
+
 Some Zener diodes ...
 Circuit simulation was done using https://www.falstad.com/circuit/
 
