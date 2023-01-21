@@ -12,7 +12,7 @@ Circuit simulation was done using https://www.falstad.com/circuit/
 
 # Software
 Prerequists: Arduino ide, and the **MIDIUSB** library.
-To configure edit the macro's between ** /* Start of Config */ ** and ** /* End of Config */ **
+To configure edit the macro's between /* Start of Config */ and /* End of Config */
 Configurable 
 1. up to 6 inputs/ADC's
 2. uart printf output... uart can be very slow, so better,
